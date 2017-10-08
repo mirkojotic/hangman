@@ -1,4 +1,4 @@
-###Simple terminal based Hangman game
+### Simple terminal based Hangman game
 
 - pulling words from public API
 - allow users 8 guesses
